@@ -78,4 +78,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+# Laravel-localization
 #45 : Utilizzo di Laravel per inserire le traduzioni nel progetto, sia nelle view che nell'url (con aggiunta del menu per la scelta della lingua nel layout ricorrente)
